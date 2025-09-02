@@ -8,4 +8,4 @@ setTimeout(() => console.log("6"), 10);
 Promise.resolve().then(() => console.log("7"));
 setTimeout(() => console.log("8"), 0);
 Promise.resolve(console.log("9"));
-console.log("1⁰0");
+console.log("10");
